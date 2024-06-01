@@ -21,7 +21,7 @@ serde.workspace = true
 lazy_static = "1.4.0"
 
 # Logging
-flexi_logger = "0.25"
+flexi_logger = "0.27"
 log = "0.4.20"
 
 # Binary Command Line Args
